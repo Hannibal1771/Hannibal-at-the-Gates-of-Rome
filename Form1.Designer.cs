@@ -6,6 +6,7 @@
         /// Обязательная переменная конструктора.
         /// </summary>
         private System.ComponentModel.IContainer components = null;
+        //хех
 
         /// <summary>
         /// Освободить все используемые ресурсы.
