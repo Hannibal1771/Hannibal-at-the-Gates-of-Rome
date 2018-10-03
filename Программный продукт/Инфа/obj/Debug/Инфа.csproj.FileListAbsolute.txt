@@ -1,0 +1,30 @@
+C:\Users\Артем\source\repos\Инфа\Инфа\bin\Debug\Инфа.exe.config
+C:\Users\Артем\source\repos\Инфа\Инфа\bin\Debug\Инфа.exe
+C:\Users\Артем\source\repos\Инфа\Инфа\bin\Debug\Инфа.pdb
+C:\Users\Артем\source\repos\Инфа\Инфа\obj\Debug\Инфа.csprojResolveAssemblyReference.cache
+C:\Users\Артем\source\repos\Инфа\Инфа\obj\Debug\Инфа.Form1.resources
+C:\Users\Артем\source\repos\Инфа\Инфа\obj\Debug\Инфа.Properties.Resources.resources
+C:\Users\Артем\source\repos\Инфа\Инфа\obj\Debug\Инфа.csproj.GenerateResource.Cache
+C:\Users\Артем\source\repos\Инфа\Инфа\obj\Debug\Инфа.csproj.CoreCompileInputs.cache
+C:\Users\Артем\source\repos\Инфа\Инфа\obj\Debug\Инфа.exe
+C:\Users\Артем\source\repos\Инфа\Инфа\obj\Debug\Инфа.pdb
+C:\Users\vilba\Downloads\Infa\Инфа\Инфа\obj\Debug\Инфа.csprojResolveAssemblyReference.cache
+C:\Users\vilba\Downloads\Infa\Инфа\Инфа\obj\Debug\Инфа.Form1.resources
+C:\Users\vilba\Downloads\Infa\Инфа\Инфа\obj\Debug\Инфа.Properties.Resources.resources
+C:\Users\vilba\Downloads\Infa\Инфа\Инфа\obj\Debug\Инфа.csproj.GenerateResource.Cache
+C:\Users\vilba\Downloads\Infa\Инфа\Инфа\obj\Debug\Инфа.csproj.CoreCompileInputs.cache
+C:\Users\vilba\Downloads\Infa\Инфа\Инфа\obj\Debug\Инфа.exe
+C:\Users\vilba\Downloads\Infa\Инфа\Инфа\obj\Debug\Инфа.pdb
+C:\Users\vilba\Downloads\Infa\Инфа\Инфа\bin\Debug\Инфа.exe.config
+C:\Users\vilba\Downloads\Infa\Инфа\Инфа\bin\Debug\Инфа.exe
+C:\Users\vilba\Downloads\Infa\Инфа\Инфа\bin\Debug\Инфа.pdb
+C:\Users\vilba\Desktop\МПТ\ПП 03.01\Программный продукт\Инфа\bin\Debug\Инфа.exe.config
+C:\Users\vilba\Desktop\МПТ\ПП 03.01\Программный продукт\Инфа\bin\Debug\Инфа.exe
+C:\Users\vilba\Desktop\МПТ\ПП 03.01\Программный продукт\Инфа\bin\Debug\Инфа.pdb
+C:\Users\vilba\Desktop\МПТ\ПП 03.01\Программный продукт\Инфа\obj\Debug\Инфа.csprojResolveAssemblyReference.cache
+C:\Users\vilba\Desktop\МПТ\ПП 03.01\Программный продукт\Инфа\obj\Debug\Инфа.Form1.resources
+C:\Users\vilba\Desktop\МПТ\ПП 03.01\Программный продукт\Инфа\obj\Debug\Инфа.Properties.Resources.resources
+C:\Users\vilba\Desktop\МПТ\ПП 03.01\Программный продукт\Инфа\obj\Debug\Инфа.csproj.GenerateResource.Cache
+C:\Users\vilba\Desktop\МПТ\ПП 03.01\Программный продукт\Инфа\obj\Debug\Инфа.csproj.CoreCompileInputs.cache
+C:\Users\vilba\Desktop\МПТ\ПП 03.01\Программный продукт\Инфа\obj\Debug\Инфа.exe
+C:\Users\vilba\Desktop\МПТ\ПП 03.01\Программный продукт\Инфа\obj\Debug\Инфа.pdb
